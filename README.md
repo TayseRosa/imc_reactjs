@@ -10,15 +10,14 @@
 
 # ➡️ Demo
 <p align="center">
-  <img src="./img/readme01.png" width="100%" />
-  <img src="./img/readme02.png" width="100%" />
+  <img src="./readme.gif" width="100%" />
 </p>
 
 ---
 # 🛠 Sobre o projeto
 
 <p>
-Esta aplicação calcula o IMC (Índice de Massa Corpórea) foi desenvolvida em React JS para consolidar os conhecimentos de React JS adiquiridos durante o tempo, e para contribuir com a comunidade dev.
+Esta aplicação calcula o IMC (Índice de Massa Corpórea) foi desenvolvida em React JS para consolidar os conhecimentos de React JS adiquiridos, e para contribuir com a comunidade dev.
 </p>
 
 ---
@@ -26,10 +25,10 @@ Esta aplicação calcula o IMC (Índice de Massa Corpórea) foi desenvolvida em 
 # 🚀 Tecnologias utilizadas neste projeto
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [x] HTML
-- [x] CSS
 - [x] JAVASCRIPT
 - [x] REACT JS
+- [x] TYPESCRIPT
+- [x] CSS MODULES
 
 # 📥 Como usar
 ```js
