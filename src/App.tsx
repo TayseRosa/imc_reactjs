@@ -7,6 +7,8 @@ import poweredImage from './assets/powered.png'
 import down from './assets/down.png'
 import leftArrow from './assets/leftarrow.png' */
 
+import { levels, calculateImc } from './helpers/imc';
+
 const App = () => {
 
   const [ heightField, setHeightField ] = useState<number>(0);
@@ -51,7 +53,9 @@ const App = () => {
 
           </div>
           <div className={styles.rightSide}>
-            ---
+            <div className={styles.grid}>
+              ...
+            </div>
           </div>
         </div>
     </div>
