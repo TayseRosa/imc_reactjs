@@ -1,46 +1,63 @@
-# Getting Started with Create React App
+<h1 align="center"> Aplicação que calcula o IMC (Índice de Massa Corpórea)</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Índice
+- [➡️ Demo](#️-demo)
+- [🛠 Sobre o projeto](#-sobre-o-projeto)
+- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
+- [📥 Como usar](#-como-usar)
+- [🚀 Autor](#-autor)
+  
 
-## Available Scripts
+# ➡️ Demo
+<p align="center">
+  <img src="./img/readme01.png" width="100%" />
+  <img src="./img/readme02.png" width="100%" />
+</p>
 
-In the project directory, you can run:
+---
+# 🛠 Sobre o projeto
 
-### `npm start`
+<p>
+Esta aplicação calcula o IMC (Índice de Massa Corpórea) foi desenvolvida em React JS para consolidar os conhecimentos de React JS adiquiridos durante o tempo, e para contribuir com a comunidade dev.
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# 🚀 Tecnologias utilizadas neste projeto
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-### `npm test`
+- [x] HTML
+- [x] CSS
+- [x] JAVASCRIPT
+- [x] REACT JS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 📥 Como usar
+```js
 
-### `npm run build`
+    //Clonar o repositório
+    $ git clone https://github.com/TayseRosa/imc_reactjs.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    //Entrar no diretório
+    $ cd imc_reactjs
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    //Instalar bibliotecas
+    $ npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    //Startar projeto
+    $ npm start
 
-### `npm run eject`
+``` 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# 🚀 Autor
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<a href="https://www.tayserosa.dev">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa" style="border-radius:50%"/>
+ <br />
+ <sub><b>Tayse Rosa</b></sub></a> <a href="https://www.tayserosa.dev" title="Tayse Rosa">🚀</a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Feito com ❤️ por Tayse Rosa 🚀
 
-## Learn More
+👋🏽 Entre em contato!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Linkedin Badge](https://img.shields.io/badge/-TayseRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayse-rosa-3b683151/)[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayseRosa/)
