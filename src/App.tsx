@@ -7,16 +7,19 @@ import poweredImage from './assets/powered.png'
 import down from './assets/down.png'
 import leftArrow from './assets/leftarrow.png' */
 
-import { levels, calculateImc } from './helpers/imc';
+import { GridItem } from './components/GridItem';
+
+import { levels, calculateImc, level } from './helpers/imc';
 
 const App = () => {
 
   const [ heightField, setHeightField ] = useState<number>(0);
   const [ weightField, setWeightField ] = useState<number>(0);
+  const [ toShow, setToShow ] = useState<level | null>(null);
 
   const handleCalculateButton=()=>{
     if( heightField && weightField ){
-      /* calculo */
+      setToShow(calculateImc(heightField, weightField));
     }else{
       alert('Digite todos os campos')
     }
@@ -52,11 +55,25 @@ const App = () => {
           <button onClick={handleCalculateButton}>Calcular</button>
 
           </div>
+
+          {!toShow &&
           <div className={styles.rightSide}>
             <div className={styles.grid}>
-              ...
+            { levels.map((item, key) => (
+                <div key={key}>
+                  <GridItem key={key} item={item} />
+                </div>
+              )) }
             </div>
           </div>
+          }
+          {toShow && 
+            <div className={styles.rightBig}>
+              <div className={styles.rightArrow}>
+                <GridItem item={toShow} />
+              </div>
+            </div>
+          }
         </div>
     </div>
   )
