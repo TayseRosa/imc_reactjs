@@ -1,6 +1,11 @@
 <h1 align="center"> Aplicação que calcula o IMC (Índice de Massa Corpórea)</h1>
 
-<h2 align="center" target="_blank">www.tayserosa.dev</h2>
+<h2 align="center" target="_blank">
+
+ <img src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa" style="border-radius:50%"/>  
+  www.tayserosa.dev
+
+</h2>
 
 
 
