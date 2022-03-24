@@ -52,10 +52,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <a href="https://www.tayserosa.dev">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa" style="border-radius:50%"/>
  <br />
- <sub><b>Tayse Rosa</b></sub></a> <a href="https://www.tayserosa.dev" title="Tayse Rosa">🚀</a>
+ <sub><b>www.tayserosa.dev</b></sub></a> <a href="https://www.tayserosa.dev" title="Tayse Rosa">🚀</a>
 
 
 Feito com ❤️ por Tayse Rosa 🚀
+
 
 Portfólio: https://www.tayserosa.dev
 
