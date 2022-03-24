@@ -1,6 +1,6 @@
 <h2 align="center" target="_blank">
 
- <img src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa" style="border-radius:50%"/>  
+ <img src="https://avatars.githubusercontent.com/u/31596454?v=4" width="50px;" alt="Tayse Rosa" />  
   www.tayserosa.dev
 
 </h2>
