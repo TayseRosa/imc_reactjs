@@ -9,15 +9,6 @@
 <h1 align="center"> Aplicação que calcula o IMC (Índice de Massa Corpórea)</h1>
 
 
-#Índice
-- [➡️ Demo](#️-demo)
-- [🛠 Sobre o projeto](#-sobre-o-projeto)
-- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-- [📥 Como usar](#-como-usar)
-- [🚀 Autor](#-autor)
-  
-
-# ➡️ Demo
 <p align="center">
   <img src="./readme.gif" width="100%" />
 </p>
